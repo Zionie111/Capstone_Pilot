@@ -1,0 +1,8 @@
+,mean_abs_shap,red_flag
+soft_assets,0.6791454,True
+ch_cs,0.3021463,True
+issue,0.26296562,True
+ch_rsst,0.2292225,True
+dch_inv,0.22339877,False
+dch_rec,0.22112188,True
+ch_roa,0.19307086,False
